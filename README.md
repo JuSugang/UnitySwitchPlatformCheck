@@ -1,2 +1,3 @@
-this is for platform test
+this is for platform change test
+
 # UnitySwitchPlatformCheck
